@@ -2,3 +2,5 @@
 
 # Rubymine
 .idea/
+env.sh
+/node_modules/
